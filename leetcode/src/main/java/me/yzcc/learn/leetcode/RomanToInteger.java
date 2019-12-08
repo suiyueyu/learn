@@ -121,6 +121,7 @@ public class RomanToInteger {
         System.out.println(romanToInteger.romanToInt("IV"));
         System.out.println(romanToInteger.romanToInt("IX"));
         System.out.println(romanToInteger.romanToInt("LVIII"));
+        System.out.println(romanToInteger.romanToInt("MM"));
     }
 
 }
