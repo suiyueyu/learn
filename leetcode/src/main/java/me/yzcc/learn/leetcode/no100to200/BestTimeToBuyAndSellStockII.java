@@ -39,7 +39,7 @@ package me.yzcc.learn.leetcode.no100to200;
  * 链接：https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class BestTimeToBuyAndSellStockII {
+class BestTimeToBuyAndSellStockII {
     public int maxProfit(int[] prices) {
         if (prices == null || prices.length == 0) {
             return 0;
